@@ -6,6 +6,7 @@ package com.vv.gc;
  */
 public class GcDemo2 {
     public static void main(String[] args) {
+
 //        默认机器内存的1/64
         long totalMemory = Runtime.getRuntime().totalMemory();
 //        默认机器内存的1/4
